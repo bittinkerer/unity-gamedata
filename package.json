@@ -1,0 +1,20 @@
+{
+  "name": "com.estenis.gamedata",
+  "version": "1.0.0",
+  "displayName": "Game Data Code",
+  "description": "Scripts for the data models used to transfer game information",
+  "unity": "2019.1",
+  "unityRelease": "0b5",  
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "data",
+    "gamedata"
+  ],
+  "author": {
+    "name": "Ernesto Pavon",
+    "email": "bittinkerer@gmail.com",
+    "url": "https://www.estenis.com"
+  }
+}
