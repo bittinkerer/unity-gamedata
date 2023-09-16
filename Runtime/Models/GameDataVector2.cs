@@ -1,7 +1,6 @@
-﻿using Assets.Scripts.StateMachine.Models;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Assets.Scripts.Game.StateMachine.Models
+namespace Packages.Estenis.GameData.RunTime.Models
 {
     public class GameDataVector2 : GameData<Vector2>
     {

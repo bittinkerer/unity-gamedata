@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.Scripts.StateMachine.Models
+namespace Packages.Estenis.GameData.RunTime.Models
 {
     public class GameDataTransform : GameData<Transform>
     {

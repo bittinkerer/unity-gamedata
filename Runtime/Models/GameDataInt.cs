@@ -1,6 +1,5 @@
-﻿using Assets.Scripts.StateMachine.Models;
-
-namespace Assets.Scripts.Game.StateMachine.Models
+﻿
+namespace Packages.Estenis.GameData.RunTime.Models
 {
     public class GameDataInt : GameData<int>
     {
