@@ -2,7 +2,7 @@
 {
     public class GameData
     {
-        protected int InstanceId { get; set; } = int.MinValue;
+        public int InstanceId { get; protected set; } = int.MinValue;
 
         public GameData() { }
         public GameData(int instanceId) 
