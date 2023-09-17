@@ -1,4 +1,4 @@
-﻿namespace Packages.Estenis.GameData.RunTime.Models
+﻿namespace Packages.Estenis.GameData_
 {
     public class GameDataBool : GameData<bool>
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Packages.Estenis.GameData.RunTime.Models
+namespace Packages.Estenis.GameData_
 {
     public class GameDataVector2 : GameData<Vector2>
     {

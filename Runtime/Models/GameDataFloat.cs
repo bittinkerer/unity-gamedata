@@ -1,6 +1,6 @@
 ﻿
 
-namespace Packages.Estenis.GameData.RunTime.Models
+namespace Packages.Estenis.GameData_
 {
     public class GameDataFloat : GameData<float>
     {
